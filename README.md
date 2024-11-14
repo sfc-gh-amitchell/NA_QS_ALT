@@ -165,5 +165,5 @@ ALTER APPLICATION PACKAGE NATIVE_APP_QUICKSTART_PACKAGE
 
 - Step 12 AS IS
 
-- Step 13 Go to Data  Products/Apps and click on your new app.
+- Step 13 Go to *Data  Products/Apps* and click on your new app.
 It is going to prompt you for access to tables we loaded earlier.
